@@ -11,12 +11,12 @@
 </p>
 <hr>
  <h3 align="center">  Statistical Data </h3>
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miladrn&" alt="adam-pw" /></p>
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miladrezanezhad&" alt="adam-pw" /></p>
 
 <p align="center">
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miladrn"> <img alig src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miladrn&theme=github" /></a>
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miladrn"> <img alig src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miladrn&theme=github" /></a>
-  <a href="https://github-readme-stats.vercel.app/api?username=miladrn"> <img alig src="https://github-readme-stats.vercel.app/api?username=miladrn&column=3&margin-w=15&margin-h=15" /></a>
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miladrezanezhad"> <img alig src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miladrezanezhad&theme=github" /></a>
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miladrezanezhad"> <img alig src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miladrezanezhad&theme=github" /></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=miladrezanezhad"> <img alig src="https://github-readme-stats.vercel.app/api?username=miladrezanezhad&column=3&margin-w=15&margin-h=15" /></a>
 </p>
 
 <hr>
@@ -24,7 +24,7 @@
 <div align="center">
     <h3> Connect with Me </h3>
     <p>
-      <a href="https://nilamal.ir"><img src="https://img.shields.io/badge/instagram-f88a3c?logo=instagram&logoColor=ffffff" alt="instagram logo" title="instagram" height="25" /></a>
+      <a href="https://nilamalll.ir"><img src="https://img.shields.io/badge/instagram-f88a3c?logo=instagram&logoColor=ffffff" alt="instagram logo" title="instagram" height="25" /></a>
       <a href="https://www.linkedin.com/in/milad-rezanezhad/"><img src="https://img.shields.io/badge/linkedin-0d66c2?logo=linkedin&logoColor=ffffff" alt="linkedin logo" title="linkedin" height="25" /></a>
       <a href="https://t.me/developer_milad"><img src="https://img.shields.io/badge/telegram-282C34?logo=telegram&logoColor=F7DF1E" alt="telegram logo" title="telegram" height="25" /></a>
       <a href="https://twitter.com/Milad_RN_"><img src="https://img.shields.io/badge/twitter-1d9bf0?logo=twitter&logoColor=ffffff" alt="twitter logo" title="twitter" height="25" /></a>
@@ -33,7 +33,7 @@
 <hr>
 <h3 align="center" > MY RANK </h3>
 <p align="center">
-   <img alig src="https://github-profile-trophy.vercel.app/?username=miladrn&column=3&margin-w=15&margin-h=15" />
+   <img alig src="https://github-profile-trophy.vercel.app/?username=miladrezanezhad&column=3&margin-w=15&margin-h=15" />
 </p>
 <hr>
 
@@ -67,5 +67,5 @@
  
 </div>
 
-<img src="https://wakatime.com/share/@miladrn/ca3e90b2-5368-4b22-850f-d9c99ab8bfc2.svg">
-<h1> <a href="https://nilamal.ir /> لوازم ارایشی و اکسسوری </a>
+<img src="https://wakatime.com/share/@miladrezanezhad/ca3e90b2-5368-4b22-850f-d9c99ab8bfc2.svg">
+<h1> <a href="https://nilamall.ir /> لوازم ارایشی و اکسسوری </a>
