@@ -24,7 +24,7 @@
 <div align="center">
     <h3> Connect with Me </h3>
     <p>
-      <a href="https://nilamalll.ir"><img src="https://img.shields.io/badge/instagram-f88a3c?logo=instagram&logoColor=ffffff" alt="instagram logo" title="instagram" height="25" /></a>
+      <a href="https://nilamall.ir"><img src="https://img.shields.io/badge/instagram-f88a3c?logo=instagram&logoColor=ffffff" alt="instagram logo" title="instagram" height="25" /></a>
       <a href="https://www.linkedin.com/in/milad-rezanezhad/"><img src="https://img.shields.io/badge/linkedin-0d66c2?logo=linkedin&logoColor=ffffff" alt="linkedin logo" title="linkedin" height="25" /></a>
       <a href="https://t.me/developer_milad"><img src="https://img.shields.io/badge/telegram-282C34?logo=telegram&logoColor=F7DF1E" alt="telegram logo" title="telegram" height="25" /></a>
       <a href="https://twitter.com/Milad_RN_"><img src="https://img.shields.io/badge/twitter-1d9bf0?logo=twitter&logoColor=ffffff" alt="twitter logo" title="twitter" height="25" /></a>
