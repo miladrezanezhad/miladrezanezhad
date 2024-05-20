@@ -6,10 +6,10 @@
   <div align="center" id="badges">
     <h3 align="center">Contact me</h3>
     <a href="mailto:miladvf2014@gmail.com">
-      <img src="https://img.shields.io/badge/-alek.sandr2020%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+      <img src="https://img.shields.io/badge/-miladvf2014@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://t.me/BaverDoraG">
-      <img src="https://img.shields.io/badge/-AlekGurov-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+      <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="https://www.instagram.com/milad__rezanezhad/">
       <img src="https://img.shields.io/badge/-instagram-magenta?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
