@@ -1,8 +1,5 @@
 <div align="center">
-  <div align="center">
-  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
-       alt="snake" />
-  </div>
+
   <div align="center" id="badges">
     <h3 align="center">Contact me</h3>
     <a href="mailto:miladvf2014@gmail.com">
