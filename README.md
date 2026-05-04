@@ -52,31 +52,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=miladrezanezhad&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-    <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miladrezanezhad&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  </picture>
-  <picture>
-    <source srcset="https://nirzak-streak-stats.vercel.app/?user=miladrezanezhad&theme=radical&hide_border=true" />
-    <img width="49%" alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=miladrezanezhad&theme=radical&hide_border=true" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miladrezanezhad&layout=compact&theme=radical&hide_border=true" />
-    <img width="49%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miladrezanezhad&layout=compact&theme=radical&hide_border=true" />
-  </picture>
-  <picture>
-    <source srcset="https://github-profile-trophy.vercel.app/?username=miladrezanezhad&theme=radical&no-frame=true&row=1&column=4" />
-    <img width="49%" alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=miladrezanezhad&theme=radical&no-frame=true&row=1&column=4" />
-  </picture>
-</p>
-
----
 
 ## 🏆 GitHub Trophies & Achievements
 
