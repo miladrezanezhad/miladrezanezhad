@@ -76,17 +76,7 @@
 
 
 
-<a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/miladrezanezhad/miladrezanezhad/master/transparent.png" alt="masterking32" height="0" width="100%" style="width: 100%; height: 0px"  /></a>
 
-
-<p align="center">
-  <a href="https://github.com/MasterkinG32" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/miladrezanezhad/miladrezanezhad/master/github-metrics.svg" alt="MasterkinG32's" style='width: 55%' />
-  </a>
-  <a href="https://github.com/MasterkinG32" target="_blank">
-    <img align="center" src="https://wakatime.com/share/@miladrezanezhad/ea7965c9-5e70-4fe1-8234-e8581afe87ec.svg" width="40%" alt="MasterkinG32's wakatime.com"  />
-  </a>
-<p>
 
 
 
