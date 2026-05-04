@@ -13,7 +13,7 @@ Hi, I'm Milad 👩‍💻.
 .2026 Goals: Contribute more to OSS & Master Cloud Native Technologies
 ```
 
-#### 👉 *[anabastos.dev](https://anabastos.dev/)* 👈
+
 
 <Youre doing great>
 <Good things will come to you>
