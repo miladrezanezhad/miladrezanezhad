@@ -73,29 +73,18 @@
 
 
 
-<p align="left">
-  <a href="https://telegram.me/masterking32" target="_blank">
-  <!-- https://telegram-card.vercel.app/?username=masterking32&bgColor=rgba(30,41,59,1)&textColor=%23F1F5F9&subtleTextColor=%23CBD5E1&extraColor=%23F59E0B&shadowColor=rgba(0,0,0,0.2)&fontFamily=system-ui -->
-    <img src="https://raw.githubusercontent.com/masterking32/masterking32/master/telegram.png" alt="masterking32" width="47%" alt="@masterking32 on Telegram" align="left" />
-  </a>
-</p>
-
-<p align="right">
-  <a href="https://open.spotify.com/user/masterking32" target="_blank">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=masterking32&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" alt="masterking32" width="47.5%" alt="masterking32's spotify" align="right" />
-    </a>
-</p>
 
 
-<a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%" style="width: 100%; height: 0px"  /></a>
+
+<a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/miladrezanezhad/miladrezanezhad/master/transparent.png" alt="masterking32" height="0" width="100%" style="width: 100%; height: 0px"  /></a>
 
 
 <p align="center">
   <a href="https://github.com/MasterkinG32" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/masterking32/masterking32/master/github-metrics.svg" alt="MasterkinG32's" style='width: 55%' />
+    <img align="center" src="https://raw.githubusercontent.com/miladrezanezhad/miladrezanezhad/master/github-metrics.svg" alt="MasterkinG32's" style='width: 55%' />
   </a>
   <a href="https://github.com/MasterkinG32" target="_blank">
-    <img align="center" src="https://wakatime.com/share/@masterking32/ea7965c9-5e70-4fe1-8234-e8581afe87ec.svg" width="40%" alt="MasterkinG32's wakatime.com"  />
+    <img align="center" src="https://wakatime.com/share/@miladrezanezhad/ea7965c9-5e70-4fe1-8234-e8581afe87ec.svg" width="40%" alt="MasterkinG32's wakatime.com"  />
   </a>
 <p>
 
