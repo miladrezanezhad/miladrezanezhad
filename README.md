@@ -63,7 +63,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miladrezanezhad&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=miladrezanezhad&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miladrezanezhad&theme=dark)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miladrezanezhad&show_icons=true&theme=radical)
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
