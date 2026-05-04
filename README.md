@@ -32,7 +32,7 @@ Hi, I'm Milad 👩‍💻.
 |-- nic>
 
 
-
+---
 🔹 **Currently working on:** Building scalable web applications  
 🔹 **Learning:** Go, Kubernetes, AWS  
 🔹 **Ask me about:** Python, Django, React, REST APIs  
