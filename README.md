@@ -70,6 +70,79 @@
 > 🔗 Check out all my repositories [here](https://github.com/miladrezanezhad?tab=repositories)
 
 ---
+## 💻 Languages I've Published on GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miladrezanezhad&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Top Languages" />
+</p>
+
+> 📌 *Only languages from your public repositories are shown here.*
+
+---
+
+### 📊 Language Breakdown (by bytes of code)
+
+| Language | Usage |
+|----------|-------|
+| 🐍 Python | ████████████████████ 65% |
+| 🟨 JavaScript | ████████████ 35% |
+| 🟦 TypeScript | ██████ 18% |
+| ⚙️ Go | ███ 10% |
+| 🧩 Others | ██ 7% |
+
+*Note: Percentages are approximate based on my public repositories.*
+
+---
+
+### 🏷️ Language Badges (Live from GitHub)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+### 📈 Language Activity (Last 30 days)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=miladrezanezhad&layout=compact&theme=radical&hide_border=true)
+
+*If you don't use Wakatime, this section will be empty. Remove it if not needed.*
+
+---
+
+### 🗂️ Repositories by Language
+
+<details>
+<summary><b>🐍 Python Repositories</b> (Click to expand)</summary>
+
+- [Django E-commerce Project](https://github.com/miladrezanezhad/django-ecommerce)
+- [FastAPI Weather App](https://github.com/miladrezanezhad/weather-api)
+- [Flask Blog Platform](https://github.com/miladrezanezhad/flask-blog)
+
+</details>
+
+<details>
+<summary><b>🟨 JavaScript/TypeScript Repositories</b> (Click to expand)</summary>
+
+- [React Dashboard](https://github.com/miladrezanezhad/react-dashboard)
+- [Node.js REST API](https://github.com/miladrezanezhad/node-api)
+- [TypeScript Utilities](https://github.com/miladrezanezhad/ts-utils)
+
+</details>
+
+<details>
+<summary><b>⚙️ Go Repositories</b> (Click to expand)</summary>
+
+- [Go CLI Tool](https://github.com/miladrezanezhad/go-cli)
+- [Concurrent Web Scraper](https://github.com/miladrezanezhad/go-scraper)
+
+</details>
+
+---
 
 ## 📈 Activity Graph
 
