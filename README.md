@@ -1,70 +1,41 @@
-<div align="center">
+# 👋 سلام، من میلاد رضانژاد هستم
 
-  <div align="center" id="badges">
-    <h3 align="center">Contact me</h3>
-    <a href="mailto:miladvf2014@gmail.com">
-      <img src="https://img.shields.io/badge/-miladvf2014@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <a href="https://t.me/BaverDoraG">
-      <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-    <a href="https://www.instagram.com/milad__rezanezhad/">
-      <img src="https://img.shields.io/badge/-instagram-magenta?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
-    </a>
-     <a href="https://nilamall.ir">
-      <img src="https://img.shields.io/badge/-website-gold?style=for-the-badge&logo=wordpress&logoColor=black" alt="nilamall Badge"/>
-    </a>
-  </div>  
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=miladrezanezhad&label=Profile%20Visits&style=for-the-badge" />
-  <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div>
-</div>
+[![GitHub followers](https://img.shields.io/github/followers/miladrezanezhad?label=دنبال‌کننده&style=social)](https://github.com/miladrezanezhad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-آبی?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/miladrezanezhad)
+[![Twitter](https://img.shields.io/badge/Twitter-آبی‌آسمانی?style=flat&logo=twitter&logoColor=white)](https://twitter.com/miladrezanezhad)
 
+## 🧑‍💻 درباره من
 
-### :woman_technologist: درباره من :
+- 🔭 در حال کار روی پروژه‌های متن‌باز
+- 🌱 در حال یادگیری `Go` و `Kubernetes`
+- 💬 بپرس از من درباره `Python`, `Django`, `JavaScript`
+- 📫 چطور بهم برسی: `milad@example.com`
+- ⚡ حقیقت جالب: کد زدن رو با CSS شروع کردم!
 
-- :telescope: من یک توسعه دهنده فول استک از ایران هستم <br>
+## 🛠️ مهارت‌ها
 
-- :telescope: من به‌عنوان مهندس نرم‌افزار کار می‌کنم و در ساخت برنامه‌های کاربردی وب با فرانت‌اند و بک‌اند همکاری می‌کنم.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- :seedling: کاوش در نوشتن محتوای فنی
+## 📊 آمار گیت‌هاب
 
+![miladrezanezhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=miladrezanezhad&show_icons=true&theme=radical&hide_title=true)
 
-- :mailbox:نحوه دسترسی به من: [![Telegram Badge](https://img.shields.io/badge/-miladrezanezhad-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/BaverDoraG)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miladrezanezhad&layout=compact&theme=radical)
 
+## 🏆 دستاوردها
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-</div>
+![trophy](https://github-profile-trophy.vercel.app/?username=miladrezanezhad&theme=radical&no-frame=true&row=1)
 
+## 📫 در شبکه‌های اجتماعی
 
-### :fire: My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miladrezanezhad&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=miladrezanezhad&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miladrezanezhad&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miladrezanezhad)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/miladrezanezhad)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miladrezanezhad)
 
-----------------------------------------------------------------------
+---
+
+⭐️ از [miladrezanezhad](https://github.com/miladrezanezhad) دیدن کنید
