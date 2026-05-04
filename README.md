@@ -6,8 +6,8 @@
 ```diff
 Hi, I'm Milad 👩‍💻.
 
-@@I'm a software engineer@@
-+ Living in São Paulo, Iran IR.
+@@ software engineer @@
++ Living in, Iran IR.
 - 27 years old
 ! 📖 Programming languages, functional, web development
 .2026 Goals: Contribute more to OSS & Master Cloud Native Technologies
