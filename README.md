@@ -70,77 +70,41 @@
 > 🔗 Check out all my repositories [here](https://github.com/miladrezanezhad?tab=repositories)
 
 ---
-## 💻 Languages I've Published on GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miladrezanezhad&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Top Languages" />
+
+
+<p align="left">
+  <a href="https://telegram.me/masterking32" target="_blank">
+  <!-- https://telegram-card.vercel.app/?username=masterking32&bgColor=rgba(30,41,59,1)&textColor=%23F1F5F9&subtleTextColor=%23CBD5E1&extraColor=%23F59E0B&shadowColor=rgba(0,0,0,0.2)&fontFamily=system-ui -->
+    <img src="https://raw.githubusercontent.com/masterking32/masterking32/master/telegram.png" alt="masterking32" width="47%" alt="@masterking32 on Telegram" align="left" />
+  </a>
 </p>
 
-> 📌 *Only languages from your public repositories are shown here.*
+<p align="right">
+  <a href="https://open.spotify.com/user/masterking32" target="_blank">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=masterking32&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" alt="masterking32" width="47.5%" alt="masterking32's spotify" align="right" />
+    </a>
+</p>
 
----
 
-### 📊 Language Breakdown (by bytes of code)
+<a href="https://masterking32.com" target="_blank"><img src="https://raw.githubusercontent.com/masterking32/masterking32/master/transparent.png" alt="masterking32" height="0" width="100%" style="width: 100%; height: 0px"  /></a>
 
-| Language | Usage |
-|----------|-------|
-| 🐍 Python | ████████████████████ 65% |
-| 🟨 JavaScript | ████████████ 35% |
-| 🟦 TypeScript | ██████ 18% |
-| ⚙️ Go | ███ 10% |
-| 🧩 Others | ██ 7% |
 
-*Note: Percentages are approximate based on my public repositories.*
+<p align="center">
+  <a href="https://github.com/MasterkinG32" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/masterking32/masterking32/master/github-metrics.svg" alt="MasterkinG32's" style='width: 55%' />
+  </a>
+  <a href="https://github.com/MasterkinG32" target="_blank">
+    <img align="center" src="https://wakatime.com/share/@masterking32/ea7965c9-5e70-4fe1-8234-e8581afe87ec.svg" width="40%" alt="MasterkinG32's wakatime.com"  />
+  </a>
+<p>
 
----
 
-### 🏷️ Language Badges (Live from GitHub)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
----
 
-### 📈 Language Activity (Last 30 days)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=miladrezanezhad&layout=compact&theme=radical&hide_border=true)
 
-*If you don't use Wakatime, this section will be empty. Remove it if not needed.*
-
----
-
-### 🗂️ Repositories by Language
-
-<details>
-<summary><b>🐍 Python Repositories</b> (Click to expand)</summary>
-
-- [Django E-commerce Project](https://github.com/miladrezanezhad/django-ecommerce)
-- [FastAPI Weather App](https://github.com/miladrezanezhad/weather-api)
-- [Flask Blog Platform](https://github.com/miladrezanezhad/flask-blog)
-
-</details>
-
-<details>
-<summary><b>🟨 JavaScript/TypeScript Repositories</b> (Click to expand)</summary>
-
-- [React Dashboard](https://github.com/miladrezanezhad/react-dashboard)
-- [Node.js REST API](https://github.com/miladrezanezhad/node-api)
-- [TypeScript Utilities](https://github.com/miladrezanezhad/ts-utils)
-
-</details>
-
-<details>
-<summary><b>⚙️ Go Repositories</b> (Click to expand)</summary>
-
-- [Go CLI Tool](https://github.com/miladrezanezhad/go-cli)
-- [Concurrent Web Scraper](https://github.com/miladrezanezhad/go-scraper)
-
-</details>
 
 ---
 
