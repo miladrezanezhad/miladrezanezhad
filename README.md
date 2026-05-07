@@ -1,45 +1,18 @@
-# 💫 About Me
+# Hi. I'm @miladrezanezhad
 
-<img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+## Why I started this GitHub account
 
-```diff
-Hi, I'm Milad 👩‍💻.
+One of the strange advantages of building everything in public is the sheer weight of my "prior art" portfolio — even if it's just beginning.
 
-@@ software engineer @@
-+ Living in, Iran IR.
-- 27 years old
-! 📖 Programming languages, functional, web development
-.2026 Goals: Contribute more to OSS & Master Cloud Native Technologies
-```
+When you step back and look at my GitHub, it's the start of a giant archive of crazy experiments in **AI-powered storytelling, procedural narrative generation, and computational creativity**. Some polished, some rough, some half baked but functional, at least for me anyway. What matters is that they exist, they run, and they are shared.
 
+Since 2026 I have been pushing ideas into the open as fast as I can think of them.
 
+The strategy is simple. Publish first. Free for all.
 
-<Youre doing great>
-<Good things will come to you>
-<Drink water and stay awesome>
-
-<SECRET GUEST BOOK>
-<ooooooooooooooooo>
-<ooooooooooooooooo
-|2020-08-23
-| damn this quarentine for making us unable to gather our friends for some drinks 
-| miss ya!
-|-- alemedeiros
-|2021-06-23
-| https://user-images.githubusercontent.com/66042/128732266-55fc8c78-3bd4-4a99-91fb-521e9ceba127.jpeg
-| sdds, Aninha! ❤️
-|-- nic>
-
+Long live ❤️ Open Source.
 
 ---
-🔹 **Currently working on:** Building scalable web applications  
-🔹 **Learning:** Go, Kubernetes, AWS  
-🔹 **Ask me about:** Python, Django, React, REST APIs  
-🔹 **Fun fact:** I refactored my first codebase before writing my first "Hello World" 😄
-
----
-
 ## 🌐 Socials & Contact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://miladrezanezhad.dev)
@@ -51,7 +24,6 @@ Hi, I'm Milad 👩‍💻.
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milad@example.com)
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -77,61 +49,43 @@ Hi, I'm Milad 👩‍💻.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
+
+## 📊 GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miladrezanezhad&theme=calm)
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miladrezanezhad&theme=calm) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miladrezanezhad&theme=calm) |
+|:-:|:-:|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=miladrezanezhad&theme=calm) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miladrezanezhad&theme=calm&utcOffset=8) |
 
 ---
 
+## 📚 My Projects
 
-## 🏆 GitHub Trophies & Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=miladrezanezhad&theme=radical&no-frame=true&margin-w=15)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**Project 1**](https://github.com/miladrezanezhad/project1) | Awesome e-commerce platform | Django, React, PostgreSQL |
-| [**Project 2**](https://github.com/miladrezanezhad/project2) | Real-time chat application | Node.js, Socket.io, MongoDB |
-| [**Project 3**](https://github.com/miladrezanezhad/project3) | Weather API service | FastAPI, Redis, Docker |
-
-> 🔗 Check out all my repositories [here](https://github.com/miladrezanezhad?tab=repositories)
+| Project/Description | GitHub |
+|---------------------|--------|
+| 📚 **Story Development Toolkit** - A comprehensive Python toolkit for generating engaging and coherent stories. Features character creation, plot generation, dialogue writing, world building, and NLP-based coherence checking | [Link](https://github.com/miladrezanezhad/story-toolkit) |
 
 ---
 
+## 💻 Languages I Work With
 
+| Language | Usage |
+|----------|-------|
+| 🐍 Python | Primary language for AI, NLP, and backend development |
+| 📜 JavaScript/TypeScript | Web development and frontend tooling |
+| 🦀 Rust | High-performance components (learning and experimenting) |
 
+---
 
-
-
-
-
-
-
-
-
-
-
+*More projects coming soon...*
 
 ---
 
 ## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miladrezanezhad&theme=tokyo-night&hide_border=true&area=true)
-
----
-
-## 🎧 Now Playing on Spotify
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/miladrezanezhad)
-
----
-
-## 💰 Support Me
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/miladrezanezhad)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/miladrezanezhad)
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-30363D?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/miladrezanezhad)
 
 ---
 
