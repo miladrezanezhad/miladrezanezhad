@@ -13,6 +13,14 @@ The strategy is simple. Publish first. Free for all.
 Long live ❤️ Open Source.
 
 ---
+
+## 🔥 Latest Activity
+
+- ✅ **Just Published**: [SIR Epidemic Simulator](https://github.com/miladrezanezhad/sir_simulator) - 57 tests passed, 6 integrated features, and a Streamlit dashboard! 🦠
+- 🚀 **Currently Working On**: Integrating Transformer models (like GPT-2) into the Story Toolkit for more coherent long-form narratives.
+- 📝 **Writing**: "My first month of building 7 projects in public - the good, the bad, and the ugly" (Coming soon to my [blog](https://miladrezanezhad.dev))
+- 💡 **Thinking about**: How to add real-time data feeds to the epidemic simulator for actual outbreak monitoring.
+---
 ## 🌐 Socials & Contact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://miladrezanezhad.dev)
@@ -66,6 +74,7 @@ Long live ❤️ Open Source.
 | Project/Description | GitHub |
 |---------------------|--------|
 | 📚 **Story Development Toolkit** - A comprehensive Python toolkit for generating engaging and coherent stories. Features character creation, plot generation, dialogue writing, world building, and NLP-based coherence checking | [Link](https://github.com/miladrezanezhad/story-toolkit) |
+| 🦠 **SIR Epidemic Simulator** - A complete epidemic modeling suite combining classical compartmental models (SIR/SEIR) with modern machine learning (XGBoost, Random Forest). Features network spread simulation, parameter optimization, scenario comparison, and an interactive Streamlit dashboard. | [Link](https://github.com/miladrezanezhad/sir_simulator) |
 
 ---
 
