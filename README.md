@@ -1,112 +1,77 @@
-# Hi. I'm @miladrezanezhad
 
-## Why I started this GitHub account
+<p align="center">
+  <img src="https://ghrb.waren.build/banner?header=Milad+Rezanezhad+%F0%9F%91%8B&subheader=Frontend+Developer+%7C+AI+Enthusiast+%7C+Open+Source+Believer&bg=00000000&color=FFFFFF&headerfont=Poppins&subheaderfont=Inter&watermarkpos=top-right" />
+</p>
 
-One of the strange advantages of building everything in public is the sheer weight of my "prior art" portfolio — even if it's just beginning.
+**Frontend Developer** with a passion for AI, storytelling, and open source. I build tools that help developers and creators tell better stories—both human and machine.
 
-When you step back and look at my GitHub, it's the start of a giant archive of crazy experiments in **AI-powered storytelling, procedural narrative generation, and computational creativity**. Some polished, some rough, some half baked but functional, at least for me anyway. What matters is that they exist, they run, and they are shared.
-
-Since 2026 I have been pushing ideas into the open as fast as I can think of them.
-
-The strategy is simple. Publish first. Free for all.
-
-Long live ❤️ Open Source.
+- 🔭 **Currently exploring** – AI agents, LLM-powered tools, and creative coding.
+- 🌱 **Learning** – Advanced React patterns, Go microservices, and Python for data science.
+- 👯 **Open to collaborate** – On AI, CMS, or simulation projects that solve real problems.
+- 💬 **Ask me about** – React, Python, Git workflows, or building your first open source project.
+- 🧠 **Fun fact** – I wrote an epidemic simulator before I caught my first cold. Priorities. 😄
 
 ---
 
-## 🔥 Latest Activity
+## 👨‍💻 About Me
 
-- ✅ **Just Published**: [SIR Epidemic Simulator](https://github.com/miladrezanezhad/sir_simulator) - 57 tests passed, 6 integrated features, and a Streamlit dashboard! 🦠
-- 🚀 **Currently Working On**: Integrating Transformer models (like GPT-2) into the Story Toolkit for more coherent long-form narratives.
-- 📝 **Writing**: "My first month of building 7 projects in public - the good, the bad, and the ugly" (Coming soon to my [blog](https://miladrezanezhad.dev))
-- 💡 **Thinking about**: How to add real-time data feeds to the epidemic simulator for actual outbreak monitoring.
+- 🎨 **Frontend-first developer** – But I speak Python, Go, and JavaScript fluently.
+- 🤖 **AI** – I love combining classical algorithms with modern ML (XGBoost, Transformers).
+- 📖 **Storytelling nerd** – I built a toolkit to help writers and LLMs create coherent narratives.
+- 🧪 **Simulation enthusiast** – Epidemic models, network spread, parameter optimization – it's all fun.
+- 🧩 **CMS minimalist** – I built my own CMS with GitHub sync because overkill is underrated.
+- 🚀 **Open source believer** – Every project I ship is MIT licensed and free to use.
+
 ---
-## 🌐 Socials & Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://miladrezanezhad.dev)
+## 🚀 Featured Projects
+
+| Project                                                                                             | Description                                                                                                                       | Tech Stack                        | Stars                                                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📚 **[Story Development Toolkit](https://github.com/miladrezanezhad/story-toolkit)**                | Python toolkit for generating coherent stories – character creation, plot generation, dialogue writing, world building, and NLP-based coherence checking. | Python, NLP, Transformers         | [![Stars](https://img.shields.io/github/stars/miladrezanezhad/story-toolkit?style=flat-square&logo=github&labelColor=181717&color=yellow)](https://github.com/miladrezanezhad/story-toolkit/stargazers) |
+| 🦠 **[SIR Epidemic Simulator](https://github.com/miladrezanezhad/sir_simulator)**                   | Epidemic modeling suite combining SIR/SEIR with XGBoost/Random Forest. Features network simulation, parameter optimization, and an interactive Streamlit dashboard. | Python, Streamlit, XGBoost, Scikit-learn | [![Stars](https://img.shields.io/github/stars/miladrezanezhad/sir_simulator?style=flat-square&logo=github&labelColor=181717&color=yellow)](https://github.com/miladrezanezhad/sir_simulator/stargazers) |
+| 🧩 **[PersonalCMS](https://github.com/miladrezanezhad/personal-cms)**                               | Lightweight developer CMS with automatic GitHub repo syncing, blog management, and SEO tools. Perfect for portfolio websites.     | Node.js, GitHub API, Markdown, SEO | [![Stars](https://img.shields.io/github/stars/miladrezanezhad/personal-cms?style=flat-square&logo=github&labelColor=181717&color=yellow)](https://github.com/miladrezanezhad/personal-cms/stargazers)   |
+
+> 💡 **2026 goal**: Ship one AI-powered tool every month – starting with a commit message generator and a release notes bot.
+
+---
+
+## 🧪 Side & Experimental Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🔄 **Git Workflow AI** | AI agent that suggests conventional commits and PR templates | Python, OpenAI API |
+| 📊 **Epidemic Dashboard** | Real-time simulation UI for SIR models with parameter tuning | Streamlit, Plotly |
+| ✍️ **Coherence Checker** | NLP module that detects plot holes and inconsistencies in stories | spaCy, BERT |
+| 🗂️ **GitHub Sync SDK** | SDK for two-way syncing between local Markdown files and GitHub issues | TypeScript |
+
+---
+
+## 💭 My Philosophy
+
+> *“Build because you're curious. Ship because someone else might need it. Learn by breaking things – then fixing them better.”*
+
+I don't wait for perfect conditions. I write code, make mistakes, refactor, and release. Every project starts as my own headache and ends as your free tool. That's the open source way.
+
+---
+
+## 📫 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miladrezanezhad)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/miladrezanezhad)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miladrezanezhad)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miladrezanezhad)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/miladrezanezhad)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milad@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miladrezanezhad)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miladvf2014@gmail.com)
 
 ---
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
----
-
-## 📊 GitHub Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miladrezanezhad&theme=calm)
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miladrezanezhad&theme=calm) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miladrezanezhad&theme=calm) |
-|:-:|:-:|
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=miladrezanezhad&theme=calm) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miladrezanezhad&theme=calm&utcOffset=8) |
-
----
-
-## 📚 My Projects
-
-| Project/Description | GitHub |
-|---------------------|--------|
-| 📚 **Story Development Toolkit** - A comprehensive Python toolkit for generating engaging and coherent stories. Features character creation, plot generation, dialogue writing, world building, and NLP-based coherence checking | [Link](https://github.com/miladrezanezhad/story-toolkit) |
-| 🦠 **SIR Epidemic Simulator** - A complete epidemic modeling suite combining classical compartmental models (SIR/SEIR) with modern machine learning (XGBoost, Random Forest). Features network spread simulation, parameter optimization, scenario comparison, and an interactive Streamlit dashboard. | [Link](https://github.com/miladrezanezhad/sir_simulator) |
-
----
-
-## 💻 Languages I Work With
-
-| Language | Usage |
-|----------|-------|
-| 🐍 Python | Primary language for AI, NLP, and backend development |
-| 📜 JavaScript/TypeScript | Web development and frontend tooling |
-| 🦀 Rust | High-performance components (learning and experimenting) |
-
----
-
-*More projects coming soon...*
-
----
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miladrezanezhad&theme=tokyo-night&hide_border=true&area=true)
-
----
-
 ## 👁️ Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=miladrezanezhad&style=for-the-badge&color=brightgreen)
-
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/miladrezanezhad/miladrezanezhad/output/snake.svg" alt="Snake animation" />
+</p>
 
-**📌 Pro Tip:** This README is dynamic – it updates automatically!  
-⭐️ Don't forget to star your favorite repos and follow for more awesome content!
-
----
-
-✨ **Let's connect and build something amazing together!** ✨
+<p align="center">
+  <i>Open source isn't just code – it's a conversation. Let's build something meaningful together. 🚀</i>
+</p>
