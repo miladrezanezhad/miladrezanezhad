@@ -68,10 +68,10 @@ I don't wait for perfect conditions. I write code, make mistakes, refactor, and 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=miladrezanezhad&style=for-the-badge&color=brightgreen)
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/miladrezanezhad/miladrezanezhad/output/snake.svg" alt="Snake animation" />
-</p>
+## 📈 Activity Graph
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miladrezanezhad&theme=tokyo-night&hide_border=true&area=true)
+---
 <p align="center">
   <i>Open source isn't just code – it's a conversation. Let's build something meaningful together. 🚀</i>
 </p>
