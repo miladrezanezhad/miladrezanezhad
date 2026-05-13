@@ -5,9 +5,12 @@
 
 
 ---
-[![Update Internet Cut Counter](https://github.com/miladrezanezhad/miladrezanezhad/actions/workflows/update-internet-cut-days.yml/badge.svg?branch=main)](https://github.com/miladrezanezhad/miladrezanezhad/actions/workflows/update-internet-cut-days.yml)
----
-![روز شمار قطعی اینترنت ایران](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/miladrezanezhad/miladrezanezhad/main/.github/badges/internet-cut.json)
+![هفته قطعی اینترنت](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/miladrezanezhad/miladrezanezhad/main/.github/badges/internet-cut-week.json)---
+
+
+
+![روز قطعی اینترنت ایران](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/miladrezanezhad/miladrezanezhad/main/.github/badges/internet-cut.json)
+
 ---
 **Frontend Developer** with a passion for AI, storytelling, and open source. I build tools that help developers and creators tell better stories—both human and machine.
 
