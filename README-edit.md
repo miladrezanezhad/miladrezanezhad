@@ -1,3 +1,16 @@
+## 🧬 The Matrix Rain
+
+<p align="center">
+  <a href="https://rezmason.github.io/matrix/?version=classic&skipIntro=false" target="_blank">
+    <img src="https://img.shields.io/badge/🌌_ENTER_THE_MATRIX-CLICK_HERE-0f0?style=for-the-badge&logo=matrix&logoColor=0f0&labelColor=000" alt="Enter The Matrix"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>🌧️ Classic | 🎬 3D | 🌆 Megacity | 👁️ Operator | 🌙 Nightmare | 🌴 Paradise | 🔥 Resurrections</i>
+</p>
+---
+
 ## 🧬 Matrix Rain Experience
 
 <p align="center">
