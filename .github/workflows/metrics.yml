@@ -2,7 +2,7 @@ name: GitHub Metrics Full
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
   push:
     branches: ["main"]
@@ -24,12 +24,12 @@ jobs:
           base_indepth: yes
           repositories_forks: yes
           
-          # ==================== زبان‌ها ====================
+          # ==================== زبان‌ها (بدون indepth) ====================
           plugin_languages: yes
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_colors: github
-          plugin_languages_limit: 10
+          plugin_languages_limit: 8
           plugin_languages_details: bytes-size, percentage
+          # غیرفعال کردن indepth mode که باعث خطا می‌شود
+          plugin_languages_analysis_timeout: 0
           
           # ==================== تقویم مشارکت ====================
           plugin_calendar: yes
@@ -37,18 +37,18 @@ jobs:
           
           # ==================== فعالیت‌های اخیر ====================
           plugin_activity: yes
-          plugin_activity_limit: 8
+          plugin_activity_limit: 6
           plugin_activity_days: 14
           
           # ==================== دستاوردها ====================
           plugin_achievements: yes
-          plugin_achievements_threshold: B
+          plugin_achievements_threshold: C
           plugin_achievements_secrets: yes
-          plugin_achievements_display: detailed
+          plugin_achievements_display: compact
           
           # ==================== ستاره‌ها ====================
           plugin_stars: yes
-          plugin_stars_limit: 6
+          plugin_stars_limit: 4
           
           # ==================== فالوآپ ====================
           plugin_followup: yes
@@ -58,6 +58,7 @@ jobs:
           
           # ==================== مشارکت‌های برجسته ====================
           plugin_notable: yes
+          plugin_notable_from: organization
           
           # ==================== تقویم سه‌بعدی ====================
           plugin_isocalendar: yes
@@ -71,33 +72,16 @@ jobs:
           plugin_repositories_order: featured, pinned
           plugin_repositories_pinned: 4
           
-          # ==================== پلاگین‌های اضافی (جدید) ====================
-          # گیت‌هاست (Gists)
-          plugin_gists: yes
+          # ==================== پلاگین‌هایی که نیاز به توکن دارند (غیرفعال) ====================
+          # plugin_steam: yes
+          # plugin_steam_user: miladrezanezhad
+          # plugin_steam_sections: recent, played
           
-          # مشارکت در مخازن خاص (اختیاری)
-          # plugin_contributors: yes
-          # plugin_contributors_repositories: user/repo
+          # plugin_anilist: yes
+          # plugin_anilist_user: miladrezanezhad
           
-          # لایسنس مخازن
-          plugin_licenses: yes
-          plugin_licenses_ratio: 0.5
+          # plugin_leetcode: yes
+          # plugin_leetcode_user: miladrezanezhad
           
-          # لیدکد
-          plugin_leetcode: yes
-          plugin_leetcode_user: miladrezanezhad
-          plugin_leetcode_sections: solved, skills
-          
-          # شطرنج (Chess.com)
-          plugin_chess: yes
-          plugin_chess_user: miladrezanezhad
-          
-          # انیلین (Anilist)
-          plugin_anilist: yes
-          plugin_anilist_user: miladrezanezhad
-          plugin_anilist_sections: watching, stats
-          
-          # استیم
-          plugin_steam: yes
-          plugin_steam_user: miladrn1
-          plugin_steam_sections: recent, played
+          # plugin_stackoverflow: yes
+          # plugin_stackoverflow_user: YOUR_USER_ID
