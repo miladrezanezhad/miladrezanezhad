@@ -1,3 +1,41 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miladrezanezhad&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+ 
+
+---
+<!-- استایل ساده -->
+<img src="https://komarev.com/ghpvc/?username=miladrezanezhad"/>
+
+<!-- با متن فارسی -->
+<img src="https://komarev.com/ghpvc/?username=miladrezanezhad&label=بازدید%20پروفایل&color=red"/>
+
+<!-- با استایل فلت و رنگ نارنجی -->
+<img src="https://komarev.com/ghpvc/?username=miladrezanezhad&label=Views&color=orange&style=flat-square"/>
+
+<!-- استایل for-the-badge (بزرگ و برجسته) -->
+<img src="https://komarev.com/ghpvc/?username=miladrezanezhad&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+
+---
+
+
+
 <!-- Full Metrics Dashboard -->
 <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 
