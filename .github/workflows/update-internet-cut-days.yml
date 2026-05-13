@@ -62,7 +62,7 @@ jobs:
           cat > .github/badges/internet-cut-week.json << EOF
           {
             "schemaVersion": 1,
-            "label": "🇮🇷 Internet Cut",
+            "label": "IRAN Internet Cut",
             "message": "Week ${{ steps.calculate.outputs.weeks }} - ${{ steps.calculate.outputs.days }} days",
             "color": "orange",
             "labelColor": "333333",
