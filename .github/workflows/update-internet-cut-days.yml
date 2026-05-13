@@ -62,8 +62,8 @@ jobs:
           cat > .github/badges/internet-cut-week.json << EOF
           {
             "schemaVersion": 1,
-            "label": "🇮🇷 قطعی اینترنت",
-            "message": "هفته ${{ steps.calculate.outputs.weeks }} - ${{ steps.calculate.outputs.days }} روز",
+            "label": "🇮🇷 Internet Cut",
+            "message": "Week ${{ steps.calculate.outputs.weeks }} - ${{ steps.calculate.outputs.days }} days",
             "color": "orange",
             "labelColor": "333333",
             "style": "for-the-badge"
