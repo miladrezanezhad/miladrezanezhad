@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matrix Rain | miladrezanezhad</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: black;
+            overflow: hidden;
+            font-family: 'Courier New', monospace;
+        }
+
+        canvas {
+            display: block;
+        }
+
+        .info {
+            position: fixed;
+            bottom: 20px;
+            left: 0;
+            right: 0;
+            text-align: center;
+            color: #0f0;
+            font-family: monospace;
+            font-size: 14px;
+            background: rgba(0,0,0,0.7);
+            padding: 10px;
+            z-index: 100;
+            letter-spacing: 2px;
+        }
+
+        .info a {
+            color: #0f0;
+            text-decoration: none;
+            border-bottom: 1px solid #0f0;
+        }
+
+        .info a:hover {
+            color: #fff;
+            border-bottom-color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="matrixCanvas"></canvas>
+    <div class="info">
+        🧬 MATRIX RAIN | <a href="https://github.com/miladrezanezhad" target="_blank">miladrezanezhad</a> | GitHub Profile
+    </div>
+
+    <script>
+        const canvas = document.getElementById('matrixCanvas');
+        const ctx = canvas.getContext('2d');
+
+        // تنظیمات
+        let width = window.innerWidth;
+        let height = window.innerHeight;
+        let columns = Math.floor(width / 20);
+        let drops = [];
+        let characters = "アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲン0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        
+        // تنظیمات پیشرفته (قابل تغییر)
+        const config = {
+            fontSize: 20,
+            speed: 0.5,      // سرعت ریزش (کمتر = سریع‌تر)
+            density: 0.8,    // تراکم قطره‌ها
+            greenIntensity: 100  // شدت سبز (0-255)
+        };
+
+        function init() {
+            width = window.innerWidth;
+            height = window.innerHeight;
+            canvas.width = width;
+            canvas.height = height;
+            columns = Math.floor(width / config.fontSize);
+            
+            drops = [];
+            for (let i = 0; i < columns; i++) {
+                if (Math.random() < config.density) {
+                    drops[i] = Math.floor(Math.random() * -height / config.fontSize);
+                } else {
+                    drops[i] = -height / config.fontSize;
+                }
+            }
+            
+            ctx.font = `bold ${config.fontSize}px 'Courier New', monospace`;
+        }
+
+        function draw() {
+            // افکت محو شدن (مسیر حرکت قطره‌ها)
+            ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
+            ctx.fillRect(0, 0, width, height);
+            
+            // رنگ سبز ماتریکسی
+            ctx.fillStyle = `rgb(0, ${config.greenIntensity}, 0)`;
+            
+            for (let i = 0; i < drops.length; i++) {
+                const char = characters[Math.floor(Math.random() * characters.length)];
+                const x = i * config.fontSize;
+                const y = drops[i] * config.fontSize;
+                
+                ctx.fillText(char, x, y);
+                
+                // پایین آوردن قطره با سرعت تنظیم شده
+                if (y > height && Math.random() > config.speed) {
+                    drops[i] = 0;
+                }
+                drops[i] += config.speed * 0.5;
+            }
+        }
+        
+        // انیمیشن
+        function animate() {
+            draw();
+            requestAnimationFrame(animate);
+        }
+        
+        // تنظیم مجدد با تغییر سایز پنجره
+        window.addEventListener('resize', () => {
+            init();
+        });
+        
+        // شروع
+        init();
+        animate();
+        
+        // کنسول خفن
+        console.log("%c🔥 MATRIX RAIN ACTIVATED 🔥", "color: #0f0; font-size: 16px; font-family: monospace;");
+        console.log("%cWelcome to miladrezanezhad's Matrix", "color: #0f0; font-size: 12px;");
+    </script>
+</body>
+</html>
