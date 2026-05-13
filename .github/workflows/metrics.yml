@@ -24,27 +24,29 @@ jobs:
           base_indepth: yes
           repositories_forks: yes
           
-          # ==================== زبان‌ها (بدون indepth) ====================
+          # ==================== زبان‌ها ====================
           plugin_languages: yes
-          plugin_languages_limit: 8
+          plugin_languages_limit: 6
           plugin_languages_details: bytes-size, percentage
-          # غیرفعال کردن indepth mode که باعث خطا می‌شود
           plugin_languages_analysis_timeout: 0
           
           # ==================== تقویم مشارکت ====================
           plugin_calendar: yes
           plugin_calendar_limit: 1
           
-          # ==================== فعالیت‌های اخیر ====================
+          # ==================== فعالیت‌های اخیر (ساده شده) ====================
           plugin_activity: yes
-          plugin_activity_limit: 6
-          plugin_activity_days: 14
+          plugin_activity_limit: 4
+          plugin_activity_days: 7
+          plugin_activity_filter: issue, pr
+          plugin_activity_timestamps: false
           
-          # ==================== دستاوردها ====================
+          # ==================== دستاوردها (ساده شده) ====================
           plugin_achievements: yes
           plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
+          plugin_achievements_secrets: no
           plugin_achievements_display: compact
+          plugin_achievements_limit: 6
           
           # ==================== ستاره‌ها ====================
           plugin_stars: yes
@@ -52,13 +54,18 @@ jobs:
           
           # ==================== فالوآپ ====================
           plugin_followup: yes
+          plugin_followup_sections: repositories
           
-          # ==================== خطوط کد تغییر یافته ====================
+          # ==================== خطوط کد ====================
           plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 3
           
           # ==================== مشارکت‌های برجسته ====================
           plugin_notable: yes
           plugin_notable_from: organization
+          plugin_notable_types: commit
+          plugin_notable_self: no
           
           # ==================== تقویم سه‌بعدی ====================
           plugin_isocalendar: yes
@@ -72,16 +79,13 @@ jobs:
           plugin_repositories_order: featured, pinned
           plugin_repositories_pinned: 4
           
-          # ==================== پلاگین‌هایی که نیاز به توکن دارند (غیرفعال) ====================
-          # plugin_steam: yes
-          # plugin_steam_user: miladrezanezhad
-          # plugin_steam_sections: recent, played
-          
-          # plugin_anilist: yes
-          # plugin_anilist_user: miladrezanezhad
-          
-          # plugin_leetcode: yes
-          # plugin_leetcode_user: miladrezanezhad
-          
-          # plugin_stackoverflow: yes
-          # plugin_stackoverflow_user: YOUR_USER_ID
+          # ==================== پلاگین‌های غیرفعال (برای جلوگیری از خطا) ====================
+          # plugin_gists: no
+          # plugin_licenses: no
+          # plugin_leetcode: no
+          # plugin_chess: no
+          # plugin_anilist: no
+          # plugin_steam: no
+          # plugin_wakatime: no
+          # plugin_stackoverflow: no
+          # plugin_posts: no
