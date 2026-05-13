@@ -1,3 +1,10 @@
+
+
+---
+
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:2B2D3D,100:BE95E4&height=250&section=header&text=miladrezanezhad&fontSize=60&fontColor=FFFFFF&animation=fadeIn)
+
+
 ---
 Typing SVG
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=F7F7F7&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
@@ -22,4 +29,25 @@ Typing SVG
 </p>
 
 ---
+<!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=miladrezanezhad&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500" alt="GitHub Streak"/>
+  </a>
+</p>
 
+---
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=miladrezanezhad&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+  </a>
+</p>
+
+---
+
+<!-- Header سینمایی با Capsule Render -->
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:2B2D3D,100:BE95E4&height=250&section=header&text=miladrezanezhad&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20)
+
+---
