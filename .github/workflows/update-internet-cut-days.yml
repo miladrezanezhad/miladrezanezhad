@@ -1,0 +1,49 @@
+name: Update Internet Cut Counter
+
+on:
+  schedule:
+    # هر روز ساعت 00:00 UTC اجرا می‌شود (3:30 صبح به وقت ایران)
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # اجازه اجرای دستی هم می‌دهد
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Calculate days since last internet cut
+        id: calculate
+        run: |
+          # تاریخ شروع قطعی سراسری ۱۴۰۳/۱۰/۱۸ = 2025年1月7日
+          START_DATE="2025-01-07"
+          CURRENT_DATE=$(date +%Y-%m-%d)
+          DAYS=$(( ( $(date -d "$CURRENT_DATE" +%s) - $(date -d "$START_DATE" +%s) ) / 86400 ))
+          echo "days=$DAYS" >> $GITHUB_OUTPUT
+          echo "روز شمار: $DAYS روز"
+
+      - name: Create badge.json
+        run: |
+          mkdir -p .github/badges
+          cat > .github/badges/internet-cut.json << EOF
+          {
+            "schemaVersion": 1,
+            "label": "🇮🇷 روز قطعی اینترنت",
+            "message": "${{ steps.calculate.outputs.days }}",
+            "color": "red",
+            "labelColor": "333333",
+            "style": "for-the-badge"
+          }
+          EOF
+
+      - name: Commit and push badge.json
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .github/badges/internet-cut.json
+          git commit -m "Update internet cut counter: ${{ steps.calculate.outputs.days }} days" || echo "No changes to commit"
+          git push
