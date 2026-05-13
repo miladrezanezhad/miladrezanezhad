@@ -7,7 +7,7 @@
 ---
 
 
-![Internet Cut Counter](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/miladrezanezhad/miladrezanezhad/main/.github/badges/internet-cut-week.json)
+![IRAN Internet Cut Counter](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/miladrezanezhad/miladrezanezhad/main/.github/badges/internet-cut-week.json)
 
 
 ---
