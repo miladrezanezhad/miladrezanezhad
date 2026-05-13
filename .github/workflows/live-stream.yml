@@ -2,7 +2,7 @@ name: Live Profile Update
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # هر ۳۰ دقیقه
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -13,6 +13,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       # ============================================
       # بخش 1: متریکس کامل گیت‌هاب
@@ -47,11 +50,11 @@ jobs:
 
           # 3. آب و هوای بابلسر
           WEATHER=$(curl -s 'https://api.open-meteo.com/v1/forecast?latitude=36.7026&longitude=52.6576&current_weather=true' | jq -r '.current_weather.temperature' 2>/dev/null || echo "?")
-          
+
           # ساخت Badgeهای داینامیک
           echo "{\"schemaVersion\":1,\"label\":\"🇮🇷 Iran Cut\",\"message\":\"Day $CUT_DAYS\",\"color\":\"ff0000\"}" > .github/badges/cut-days.json
           echo "{\"schemaVersion\":1,\"label\":\"💰 USD\",\"message\":\"${USD} Toman\",\"color\":\"ffcc00\"}" > .github/badges/usd.json
-          echo "{\"schemaVersion\":1,\"label\":\"🌡️ Tehran\",\"message\":\"${WEATHER}°C\",\"color\":\"00aaff\"}" > .github/badges/weather.json
+          echo "{\"schemaVersion\":1,\"label\":\"🌊 Babolsar\",\"message\":\"${WEATHER}°C\",\"color\":\"00aaff\"}" > .github/badges/weather.json
 
       # ============================================
       # بخش 3: مار زنده (Snake Animation)
@@ -65,7 +68,14 @@ jobs:
             .github/snake-dark.svg?palette=github-dark
 
       # ============================================
-      # بخش 4: ذخیره و آپلود خودکار
+      # بخش 4: دریافت تغییرات جدید قبل از push
+      # ============================================
+      - name: Pull latest changes
+        run: |
+          git pull origin main --rebase || true
+
+      # ============================================
+      # بخش 5: ذخیره و آپلود خودکار
       # ============================================
       - name: Commit and Push All
         run: |
@@ -73,4 +83,5 @@ jobs:
           git config user.email "actions@github.com"
           git add .github/
           git diff --cached --quiet || git commit -m "🤖 Auto-update: $(date +'%Y-%m-%d %H:%M:%S')"
-          git push
+          git pull origin main --rebase || true
+          git push origin main
