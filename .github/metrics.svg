@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            401 Commits
+                            414 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -282,12 +282,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="253.27083764785164" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="253.27083764785164" y="0" width="140.29360542786966" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="393.5644430757213" y="0" width="37.014478539720216" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="430.57892161544146" y="0" width="13.913315470780562" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="444.4922370862221" y="0" width="13.73401571575578" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="458.2262528019778" y="0" width="1.773747198022171" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="237.39149500575172" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="237.39149500575172" y="0" width="160.33826367367976" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="397.7297586794315" y="0" width="34.6937787192849" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="432.42353739871635" y="0" width="13.040991180704411" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="445.46452857942074" y="0" width="12.872932997240433" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="458.3374615766612" y="0" width="1.6625384233387603" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -534,7 +534,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>miladrezanezhad/glype_chs</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">使用PHP实现的在线Web代理程序，基于glyph  1.4.11，并汉化和修复部分Bug</div>
@@ -587,7 +587,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>miladrezanezhad/HerokuGlypeProxy</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">My own config of Glype PHP proxy for Heroku</div>
@@ -634,7 +634,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>miladrezanezhad/spring</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -688,7 +688,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>miladrezanezhad/internet-monitor</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
