@@ -1,5 +1,4 @@
-name: Iran Internet Cut Counter
-
+name: Create full counter badge with BYOB
 on:
   schedule:
     - cron: '0 * * * *'
