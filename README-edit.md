@@ -1,19 +1,6 @@
-<img src="https://byob.yarr.is/miladrezanezhad/iran-internet-cut-full?branch=shields"/>
-<img src="https://byob.yarr.is/miladrezanezhad/iran-internet-cut-week?branch=shields"/>
+<!-- Full Metrics Dashboard -->
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 
-
----
-<p align="center">
-  <!-- BYOB با آیکون خفن -->
-  <img src="https://byob.yarr.is/miladrezanezhad/iran-internet-cut-full"/>
-  <img src="https://byob.yarr.is/miladrezanezhad/iran-internet-cut-week"/>
-</p>
-
-<p align="center">
-  <i>(آپدیت خودکار هر ساعت)</i>
-</p>
----
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Rainbow Night 3D Contributions" width="100%"/>
 ---
 
 ## 🧬 Matrix Rain Experience
