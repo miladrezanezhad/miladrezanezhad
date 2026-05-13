@@ -3,6 +3,8 @@
   <img src="https://ghrb.waren.build/banner?header=Milad+Rezanezhad+%F0%9F%91%8B&subheader=Frontend+Developer+%7C+AI+Enthusiast+%7C+Open+Source+Believer&bg=00000000&color=FFFFFF&headerfont=Poppins&subheaderfont=Inter&watermarkpos=top-right" />
 </p>
 
+![روز شمار قطعی اینترنت ایران](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/.github/badges/internet-cut.json)
+---
 **Frontend Developer** with a passion for AI, storytelling, and open source. I build tools that help developers and creators tell better stories—both human and machine.
 
 - 🔭 **Currently exploring** – AI agents, LLM-powered tools, and creative coding.
