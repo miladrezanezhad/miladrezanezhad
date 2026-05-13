@@ -99,5 +99,5 @@ jobs:
           
           # استیم
           plugin_steam: yes
-          plugin_steam_user: miladrezanezhad
+          plugin_steam_user: miladrn1
           plugin_steam_sections: recent, played
