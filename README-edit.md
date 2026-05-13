@@ -1,4 +1,14 @@
+## 🧬 Matrix Rain Experience
 
+<p align="center">
+  <a href="https://miladrezanezhad.github.io/matrix-rain.html" target="_blank">
+    <img src="https://img.shields.io/badge/🌧️_MATRIX_RAIN-CLICK_TO_EXPERIENCE-0f0?style=for-the-badge&logo=matrix&logoColor=0f0&labelColor=000" alt="Matrix Rain"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Experience the iconic digital rain from The Matrix — click the badge above 🧬</i>
+</p>
 
 ---
 
