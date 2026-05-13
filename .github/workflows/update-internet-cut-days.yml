@@ -43,37 +43,34 @@ jobs:
           MESSAGE="$DAYS days, $HOURS hrs, $MINUTES mins, $SECONDS secs"
           echo "message=$MESSAGE" >> $GITHUB_OUTPUT
 
-      - name: Create badge.json
-        run: |
-          mkdir -p .github/badges
-          cat > .github/badges/internet-cut.json << EOF
-          {
-            "schemaVersion": 1,
-            "label": "🇮🇷 روز قطعی اینترنت",
-            "message": "${{ steps.calculate.outputs.message }}",
-            "color": "red",
-            "labelColor": "333333",
-            "style": "for-the-badge"
-          }
-          EOF
+      # 🔥 Badge 1: روزشمار کامل با BYOB
+      - name: Create full counter badge with BYOB
+        uses: RubbaBoy/BYOB@v1.3.0
+        with:
+          NAME: iran-internet-cut-full
+          LABEL: '🇮🇷 روز قطعی اینترنت'
+          STATUS: '${{ steps.calculate.outputs.message }}'
+          COLOR: red
+          ICON: '📡'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Create detailed badge with week
-        run: |
-          cat > .github/badges/internet-cut-week.json << EOF
-          {
-            "schemaVersion": 1,
-            "label": "IRAN Internet Cut",
-            "message": "Week ${{ steps.calculate.outputs.weeks }} - ${{ steps.calculate.outputs.days }} days",
-            "color": "orange",
-            "labelColor": "333333",
-            "style": "for-the-badge"
-          }
-          EOF
+      # 🔥 Badge 2: هفته + روز با BYOB
+      - name: Create week badge with BYOB
+        uses: RubbaBoy/BYOB@v1.3.0
+        with:
+          NAME: iran-internet-cut-week
+          LABEL: 'IRAN Internet Cut'
+          STATUS: 'Week ${{ steps.calculate.outputs.weeks }} - ${{ steps.calculate.outputs.days }} days'
+          COLOR: orange
+          ICON: '📅'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push badges
+      # دیگر نیازی به commit و push فایل‌های JSON نیست!
+      # BYOB خودش badge رو توی مخزن ذخیره می‌کنه
+      - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add .github/badges/*.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update counter: ${{ steps.calculate.outputs.days }} days, ${{ steps.calculate.outputs.hours }} hours"
-          git push origin HEAD:main
+          git add .
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update counter: ${{ steps.calculate.outputs.days }} days"
+          git push
