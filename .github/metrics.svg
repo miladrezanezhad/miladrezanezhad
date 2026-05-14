@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 22 repositories
+                            Contributed to 23 repositories
                         </div>
                     </section>
                 </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            442 Commits
+                            445 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -106,7 +106,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            29 Repositories
+                            30 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -282,12 +282,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.29860752126453" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="230.29860752126453" y="0" width="169.56919817321085" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="399.8678056944754" y="0" width="33.50256878564267" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="433.3703744801181" y="0" width="12.59322910887334" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="445.9636035889914" y="0" width="12.430941198494688" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="458.3945447874861" y="0" width="1.605455212513928" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.5954077088967" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="229.5954077088967" y="0" width="170.4560072058342" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="400.05141491473086" y="0" width="33.40027116284125" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="433.45168607757205" y="0" width="12.554776612604352" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="446.0064626901764" y="0" width="12.39298423639048" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="458.3994469265669" y="0" width="1.6005530734330373" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -535,7 +535,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hiddify/Hiddify-Manager</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.</div>
@@ -588,7 +588,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cutemarkets/cutemarkets-typescript</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TypeScript SDK for real-time and historical options data from CuteMarkets, with typed API access for chains, contracts, quotes, trades, aggregates, and examples for scanners, Next.js, and earnings workflows.</div>
@@ -641,7 +641,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MaiHongPhong1902/HTML2Obsidian</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -689,7 +689,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ehsanmns/timesync-pro</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
