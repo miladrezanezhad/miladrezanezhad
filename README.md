@@ -1,30 +1,13 @@
-
 <p align="center">
   <img src="https://ghrb.waren.build/banner?header=Milad+Rezanezhad+%F0%9F%91%8B&subheader=Frontend+Developer+%7C+AI+Enthusiast+%7C+Open+Source+Believer&bg=00000000&color=FFFFFF&headerfont=Poppins&subheaderfont=Inter&watermarkpos=top-right" />
 </p>
 
-
 ---
-
 
 ![IRAN Internet Cut Counter](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/miladrezanezhad/miladrezanezhad/main/.github/badges/internet-cut-week.json)
 
-
 ---
 
-## 🧬 Matrix Rain Experience
-
-<p align="center">
-  <a href="https://miladrezanezhad.github.io/matrix-rain.html" target="_blank">
-    <img src="https://img.shields.io/badge/🌧️_MATRIX_RAIN-CLICK_TO_EXPERIENCE-0f0?style=for-the-badge&logo=matrix&logoColor=0f0&labelColor=000" alt="Matrix Rain"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Experience the iconic digital rain from The Matrix — click the badge above 🧬</i>
-</p>
-
----
 **Frontend Developer** with a passion for AI, storytelling, and open source. I build tools that help developers and creators tell better stories—both human and machine.
 
 - 🔭 **Currently exploring** – AI agents, LLM-powered tools, and creative coding.
@@ -48,11 +31,38 @@
 
 ## 🚀 Featured Projects
 
-| Project                                                                                             | Description                                                                                                                       | Tech Stack                        | Stars                                                                                                                                                                                                 |
-| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 📚 **[Story Development Toolkit](https://github.com/miladrezanezhad/story-toolkit)**                | Python toolkit for generating coherent stories – character creation, plot generation, dialogue writing, world building, and NLP-based coherence checking. | Python, NLP, Transformers         | [![Stars](https://img.shields.io/github/stars/miladrezanezhad/story-toolkit?style=flat-square&logo=github&labelColor=181717&color=yellow)](https://github.com/miladrezanezhad/story-toolkit/stargazers) |
-| 🦠 **[SIR Epidemic Simulator](https://github.com/miladrezanezhad/sir_simulator)**                   | Epidemic modeling suite combining SIR/SEIR with XGBoost/Random Forest. Features network simulation, parameter optimization, and an interactive Streamlit dashboard. | Python, Streamlit, XGBoost, Scikit-learn | [![Stars](https://img.shields.io/github/stars/miladrezanezhad/sir_simulator?style=flat-square&logo=github&labelColor=181717&color=yellow)](https://github.com/miladrezanezhad/sir_simulator/stargazers) |
-| 🧩 **[PersonalCMS](https://github.com/miladrezanezhad/personal-cms)**                               | Lightweight developer CMS with automatic GitHub repo syncing, blog management, and SEO tools. Perfect for portfolio websites.     | Node.js, GitHub API, Markdown, SEO | [![Stars](https://img.shields.io/github/stars/miladrezanezhad/personal-cms?style=flat-square&logo=github&labelColor=181717&color=yellow)](https://github.com/miladrezanezhad/personal-cms/stargazers)   |
+### 🛡️ Security & Pentesting
+
+| Project | Description | Tech Stack | Stars |
+|---------|-------------|------------|-------|
+| **[Web Security Scanner Pro](https://github.com/miladrezanezhad/web-security-scanner-pro)** | Advanced web vulnerability scanner with XSS, SQLi, LFI detection, parameter fuzzing, and detailed reporting. Perfect for security researchers and developers. | `Python` `Requests` `BeautifulSoup` | [![Stars](https://img.shields.io/github/stars/miladrezanezhad/web-security-scanner-pro?style=flat-square&logo=github&labelColor=181717&color=yellow)](https://github.com/miladrezanezhad/web-security-scanner-pro/stargazers) |
+
+
+### 🤖 AI & Natural Language Processing
+
+| Project | Description | Tech Stack | Stars |
+|---------|-------------|------------|-------|
+| **[Story Development Toolkit](https://github.com/miladrezanezhad/story-toolkit)** | Python toolkit for generating coherent stories – character creation, plot generation, dialogue writing, world building, and NLP-based coherence checking. | `Python` `Transformers` `spaCy` `NLP` | [![Stars](https://img.shields.io/github/stars/miladrezanezhad/story-toolkit?style=flat-square&logo=github&labelColor=181717&color=yellow)](https://github.com/miladrezanezhad/story-toolkit/stargazers) |
+
+### 📊 Simulation & Data Science
+
+| Project | Description | Tech Stack | Stars |
+|---------|-------------|------------|-------|
+| **[SIR Epidemic Simulator](https://github.com/miladrezanezhad/sir_simulator)** | Epidemic modeling suite combining SIR/SEIR with XGBoost/Random Forest. Features network simulation, parameter optimization, and an interactive Streamlit dashboard. | `Python` `Streamlit` `XGBoost` `Scikit-learn` `Plotly` | [![Stars](https://img.shields.io/github/stars/miladrezanezhad/sir_simulator?style=flat-square&logo=github&labelColor=181717&color=yellow)](https://github.com/miladrezanezhad/sir_simulator/stargazers) |
+
+### 💱 Frontend Projects
+
+| Project | Description | Tech Stack | Stars |
+|---------|-------------|------------|-------|
+| **[Cryptocurrency Exchange Dashboard](https://github.com/miladrezanezhad/cryptocurrency-exchange-dashboard)** | Production-ready cryptocurrency exchange frontend with 12+ pages, Glassmorphism design, trading interface with charts, user profile, blog system, and complete authentication flow. | `HTML5` `CSS3` `Bootstrap 5` `JavaScript` `Chart.js` | [![Stars](https://img.shields.io/github/stars/miladrezanezhad/cryptocurrency-exchange-dashboard?style=flat-square&logo=github&labelColor=181717&color=yellow)](https://github.com/miladrezanezhad/cryptocurrency-exchange-dashboard/stargazers) |
+
+### 🧩 CMS & Backend Tools
+
+| Project | Description | Tech Stack | Stars |
+|---------|-------------|------------|-------|
+| **[PersonalCMS](https://github.com/miladrezanezhad/personal-cms)** | Lightweight developer CMS with automatic GitHub repo syncing, blog management, and SEO tools. Perfect for portfolio websites. | `Node.js` `GitHub API` `Markdown` `SEO` | [![Stars](https://img.shields.io/github/stars/miladrezanezhad/personal-cms?style=flat-square&logo=github&labelColor=181717&color=yellow)](https://github.com/miladrezanezhad/personal-cms/stargazers) |
+
+---
 
 > 💡 **2026 goal**: Ship one AI-powered tool every month – starting with a commit message generator and a release notes bot.
 
@@ -86,14 +96,19 @@ I don't wait for perfect conditions. I write code, make mistakes, refactor, and 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miladvf2014@gmail.com)
 
 ---
+
 ## 👁️ Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=miladrezanezhad&style=for-the-badge&color=brightgreen)
+
 ---
+
 ## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miladrezanezhad&theme=tokyo-night&hide_border=true&area=true)
+
 ---
+
 <p align="center">
   <i>Open source isn't just code – it's a conversation. Let's build something meaningful together. 🚀</i>
 </p>
