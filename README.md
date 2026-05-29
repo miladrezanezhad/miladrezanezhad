@@ -2,10 +2,10 @@
   <img src="https://ghrb.waren.build/banner?header=Milad+Rezanezhad+%F0%9F%91%8B&subheader=Frontend+Developer+%7C+AI+Enthusiast+%7C+Open+Source+Believer&bg=00000000&color=FFFFFF&headerfont=Poppins&subheaderfont=Inter&watermarkpos=top-right" />
 </p>
 
----
 
-![IRAN Internet Cut Counter](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/miladrezanezhad/miladrezanezhad/main/.github/badges/internet-cut-week.json)
 
+<!--![IRAN Internet Cut Counter](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/miladrezanezhad/miladrezanezhad/main/.github/badges/internet-cut-week.json)
+-->
 ---
 
 **Frontend Developer** with a passion for AI, storytelling, and open source. I build tools that help developers and creators tell better stories—both human and machine.
