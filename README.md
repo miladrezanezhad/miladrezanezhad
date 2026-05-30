@@ -33,10 +33,10 @@
 
 ### 🛡️ Security & Pentesting
 
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|------------|-------|
-| **[Web Security Scanner Pro](https://github.com/miladrezanezhad/web-security-scanner-pro)** | Advanced web vulnerability scanner with XSS, SQLi, LFI detection, parameter fuzzing, and detailed reporting. Perfect for security researchers and developers. | `Python` `Requests` `BeautifulSoup` | [![Stars](https://img.shields.io/github/stars/miladrezanezhad/web-security-scanner-pro?style=flat-square&logo=github&labelColor=181717&color=yellow)](https://github.com/miladrezanezhad/web-security-scanner-pro/stargazers) |
-
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Web Security Scanner Pro](https://github.com/miladrezanezhad/web-security-scanner-pro)** | Advanced web vulnerability scanner with XSS, SQLi, LFI detection, parameter fuzzing, and detailed reporting. Perfect for security researchers and developers. | `Python` `Requests` `BeautifulSoup` |
+| **[API Security Auditor Pro](https://github.com/yourusername/api-security-auditor-pro)** | Professional API security auditing tool that detects rate limiting vulnerabilities, missing security headers, and API misconfigurations. Supports REST APIs with multiple output formats. | `Python` `aiohttp` `Click` `Rich` |
 
 ### 🤖 AI & Natural Language Processing
 
